@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hey!
 
 ![Enzo Maruffa GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzomaruffa&count_private=true&show_icons=true)
+<br>
+<a href="#">
+  <img src="https://badges.pufler.dev/visits/enzomaruffa/enzomaruffa">
+</a>
 
 <!--
 **enzomaruffa/enzomaruffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
